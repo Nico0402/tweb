@@ -1,0 +1,47 @@
+body{
+    background-color: #f0ffff;
+    font-family:  Arial, sans-serif;
+    max-width: 1024px;
+    min-width: 500px;
+}
+
+h1{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    color: #a52a2a;
+}
+
+#menu{
+    background-color: #b0c4de;
+    height: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-size: 18px;
+}
+
+a:link, a:visited{
+    color: #cd5c5c;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
